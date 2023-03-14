@@ -1,0 +1,1 @@
+[{"target":"gmail.com","imaphost":"imap.gmail.com","imapport": 993,"RequiredSSLForImap": true,"smtphost":"smtp.gmail.com","smtpportssl": 465,"smtpporttls": 587,"RequiredSSLForSmtp": true,"RequiredTLS": optional}]
