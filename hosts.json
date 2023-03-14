@@ -8,7 +8,7 @@
 		"smtpportssl":465,
 		"smtpporttls":587,
 		"RequiredSSLForSmtp":true,
-		"RequiredTLS":"optional",
+		"RequiredTLS":false,
 		"pophost":"pop.gmail.com",
 		"popport":995,
 		"RequiredSSLForPop":true
@@ -22,7 +22,7 @@
 		"smtpportssl":587,
 		"smtpporttls":587,
 		"RequiredSSLForSmtp":true,
-		"RequiredTLS":"optional",
+		"RequiredTLS":false,
 		"pophost":"pop.mail.yahoo.com",
 		"popport":995,
 		"RequiredSSLForPop":true
@@ -36,7 +36,7 @@
 		"smtpportssl":465,
 		"smtpporttls":465,
 		"RequiredSSLForSmtp":true,
-		"RequiredTLS":"optional",
+		"RequiredTLS":false,
 		"pophost":"pop.yandex.com",
 		"popport":995,
 		"RequiredSSLForPop":true
