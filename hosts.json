@@ -54,11 +54,11 @@
 		"RequiredTLSSMTP":false,
 		"RequiredTLSIMAP":true,
 		"RequiredTLSPOP":false,
+		"RequiredSSLForImap":true,
 		"smtphost":"smtp-mail.outlook.com",
 		"smtpportssl":587,
 		"smtpporttls":587,
 		"RequiredSSLForSmtp":false,
-		"RequiredTLS":true,
 		"pophost":"outlook.office365.com",
 		"popport":995,
 		"RequiredSSLForPop":false
